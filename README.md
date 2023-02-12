@@ -7,7 +7,7 @@
 -->
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Jonathan Febraio e sou Absolutamente apaixonado por tecnologia
+Meu nome é Jonathan Febraio e sou Absolutamente apaixonado por tecnologia, jogos e desafios logicos.
 
 Atualmente estou estudando Desenvolvimento Web pela escola Trybe, e tambem faço faculdade de Análise e Desenvilvimento de Sistemas pela FAM - Faculdade das americas
 
