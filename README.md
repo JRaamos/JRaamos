@@ -14,7 +14,7 @@ Atualmente estou estudando Desenvolvimento Web pela escola Trybe, e tambem faço
 <br>
 
 <!-- GITHUB STATUS -->
- align="center">
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JRaamos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRaamos&layout=compact&langs_count=10&theme=dracula&hide=html,css,sql"/>
