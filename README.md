@@ -18,7 +18,7 @@ Atualmente estou estudando Desenvolvimento Web pela escola Trybe, e tambem faço
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JRaamos&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRaamos&layout=compact&langs_count=10&theme=blue"/>-->
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=10&theme=dracula&hide=html,css,sql"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRaamos&layout=compact&langs_count=10&theme=dracula&hide=html,css,sql"/>
 
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
