@@ -15,14 +15,13 @@ Atualmente estou estudando Desenvolvimento Web pela escola Trybe, e tambem faço
 
 <!-- GITHUB STATUS -->
  
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/JRaamos?tab=repositories">
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JRaamos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRaamos&layout=compact&langs_count=7&theme=chartreuse-dark"/> 
 
-</div>-->
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JRaamos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JRaamos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+</div>
+
 
   
   ##
