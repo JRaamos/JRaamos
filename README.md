@@ -9,7 +9,7 @@
 
 Meu nome é Jonathan Febraio e sou Absolutamente apaixonado por tecnologia, jogos e desafios logicos.
 
-Atualmente estou estudando Desenvolvimento Web pela escola Trybe, e tambem faço faculdade de Análise e Desenvilvimento de Sistemas pela FAM - Faculdade das americas
+Atualmente estou me formando como um Desenvolverdor Full-stack que escreve codigos limpo, elgante e eficiente, apaixonado por tecnologia, sempre em busca de novos conhecimentos e desafios.
 
 <br>
 
