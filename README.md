@@ -9,7 +9,7 @@
 
 Meu nome é Jonathan Febraio e sou Absolutamente apaixonado por tecnologia, jogos e desafios logicos.
 
-Atualmente estou me formando como um Desenvolverdor Full-stack que escreve codigos limpo, elgante e eficiente, sempre em busca de novos conhecimentos e desafios.
+Estou atuando como um Desenvolverdor Full-stack que escreve codigos limpo, elgante e eficiente, sempre em busca de novos conhecimentos e desafios.
 
 <br>
 
