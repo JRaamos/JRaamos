@@ -27,14 +27,16 @@ Estou atuando como um Desenvolverdor Full-stack que escreve codigos limpo, elgan
   ##
   
 <div style="justify-items: center; "><br>
-  <img align="center" alt="JRaamos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JRaamos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JRaamos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JRaamos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JRaamos-Docker" height="30" width="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg">
-  <img align="center" alt="JRaamos-TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/354479/typescript.svg">
-  <img align="center" alt="JRaamos-SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
-  <img align="center" alt="JRaamos-Jest" height="30" width="40" src="https://www.svgrepo.com/show/353930/jest.svg">
+  <img align="center" alt="JRaamos-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JRaamos-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JRaamos-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JRaamos-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JRaamos-Docker" height="35" width="45" src="https://www.svgrepo.com/show/353659/docker-icon.svg">
+  <img align="center" alt="JRaamos-TypeScript" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TypeScript_Logo_%28Blue%29.svg/512px-TypeScript_Logo_%28Blue%29.svg.png?20171021140721">
+  <img align="center" alt="JRaamos-node" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg">
+ 
+  <img align="center" alt="JRaamos-SQL" height="35" width="45" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="JRaamos-Jest" height="35" width="45" src="https://www.svgrepo.com/show/353930/jest.svg">
   
   
   
