@@ -31,6 +31,14 @@ Estou atuando como um Desenvolverdor Full-stack que escreve codigos limpo, elgan
   <img align="center" alt="JRaamos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JRaamos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JRaamos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JRaamos-Docker" height="30" width="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg">
+  <img align="center" alt="JRaamos-TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/354479/typescript.svg">
+  <img align="center" alt="JRaamos-SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="JRaamos-Jest" height="30" width="40" src="https://www.svgrepo.com/show/353930/jest.svg">
+  
+  
+  
+ 
 </div>
   
   ##
