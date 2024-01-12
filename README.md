@@ -9,6 +9,7 @@
 
 Meu nome é Jonathan Febraio Sou um entusiasta da tecnologia, apaixonado por programação que encontrou sua verdadeira vocação no mundo do desenvolvimento web.
 <br>
+<br>
 Hoje, sou um desenvolvedor Full Stack com um interesse especial no Back-end mas confortavel com Front-end. Minha abordagem é sempre orientada para a solução, buscando escrever códigos limpos e eficientes. Estou sempre pronto para enfrentar desafios complexos, especialmente aqueles que me permitem inovar e aprender.
 
 <br>
