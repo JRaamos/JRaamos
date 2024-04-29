@@ -19,7 +19,7 @@ Hoje, sou um desenvolvedor Full Stack com um interesse especial no Back-end mas 
 <div align="center">
   <a href="https://github.com/JRaamos?tab=repositories">
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JRaamos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRaamos&layout=compact&langs_count=7&theme=chartreuse"/> 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRaamos&layout=compact&langs_count=7&theme=chartreuse-black"/> 
 
 </div>
 
