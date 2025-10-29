@@ -24,7 +24,7 @@ Hoje, sou um desenvolvedor Full Stack com um interesse especial no Back-end mas 
 
   
 ##
-<div id='lojc' align="center">
+<!-- <div id='lojc' align="center">
 <p align="center">
   <table>
     <tr>
@@ -67,7 +67,7 @@ Hoje, sou um desenvolvedor Full Stack com um interesse especial no Back-end mas 
       </td>
     </tr>
   </table>
-</p>
+</p> -->
 
   ##
   
