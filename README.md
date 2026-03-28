@@ -1,51 +1,67 @@
-## 👋 Fala aí, eu sou o Jonathan Febraio
+## 👋 Olá, eu sou Jonathan Febraio
 
 💻 Desenvolvedor Full Stack com foco em Back-end  
-🚀 Experiência em construção de APIs, aplicações web e mobile  
-📱 Atuo com React, React Native e Node.js  
-⚙️ Especialista em soluções escaláveis usando Strapi, MySQL e AWS  
+🚀 Construindo APIs, aplicações web e mobile escaláveis  
+📱 Experiência com React, React Native e Node.js  
+
+Tenho experiência prática em desenvolvimento de sistemas reais, trabalhando com integrações, performance e arquitetura voltada para produção.
 
 ---
 
-### 🧠 Sobre mim
+## 🚀 Tecnologias
 
-Sou um desenvolvedor com 3+ anos de experiência construindo aplicações reais para produção.
-
-Tenho forte atuação no back-end, criando APIs robustas e escaláveis, mas também desenvolvo interfaces modernas e performáticas no front-end.
-
-Gosto de resolver problemas reais, otimizar processos e construir sistemas que realmente funcionam no dia a dia.
-
----
-
-### 🛠️ Tecnologias
-
-- **Front-end:** React, React Native, Styled-components  
-- **Back-end:** Node.js, Strapi, REST APIs  
-- **Mobile:** Expo  
-- **Banco de dados:** MySQL  
-- **Infraestrutura:** AWS, Nginx, PM2  
-- **Outros:** CI/CD, Integração com APIs, Analytics  
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/React_Native-111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Strapi-111?style=for-the-badge&logo=strapi" />
+  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Nginx-111?style=for-the-badge&logo=nginx" />
+  <img src="https://img.shields.io/badge/Expo-111?style=for-the-badge&logo=expo" />
+  <img src="https://img.shields.io/badge/Styled_Components-111?style=for-the-badge&logo=styledcomponents" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Destaques
 
-<div align="center">
-  <a href="https://github.com/JRaamos?tab=repositories">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JRaamos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRaamos&layout=compact&langs_count=7&theme=chartreuse-dark"/> 
-  </a>
-</div>
+- 🔧 Construção de APIs REST escaláveis
+- ⚛️ Aplicações web com React
+- 📱 Apps mobile com React Native + Expo
+- 🔗 Integração com APIs e serviços externos
+- ☁️ Deploy e manutenção com AWS, Nginx e PM2
 
 ---
 
-### 🌎 Onde me encontrar
+## 📊 GitHub Summary
 
-<div align="center">
+<!-- TROQUE 'default' por outro tema se quiser -->
+<img src="https://raw.githubusercontent.com/JRaamos/JRaamos/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
+
+<img src="https://raw.githubusercontent.com/JRaamos/JRaamos/main/profile-summary-card-output/default/1-repos-per-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/JRaamos/JRaamos/main/profile-summary-card-output/default/2-most-commit-language.svg" width="49%" />
+
+<img src="https://raw.githubusercontent.com/JRaamos/JRaamos/main/profile-summary-card-output/default/3-stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/JRaamos/JRaamos/main/profile-summary-card-output/default/4-productive-time.svg" width="49%" />
+
+---
+
+## 📊 Indicadores
+
+![](https://img.shields.io/github/followers/JRaamos?style=for-the-badge)
+![](https://img.shields.io/github/stars/JRaamos?style=for-the-badge)
+
+---
+
+## 🌐 Contato
+
+<p align="left">
   <a href="https://www.linkedin.com/in/jonathan-febraio-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:jhonyramos46@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>  
-</div>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
