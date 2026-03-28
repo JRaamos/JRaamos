@@ -28,14 +28,6 @@ Gosto de resolver problemas reais, otimizar processos e construir sistemas que r
 
 ---
 
-### 🚀 Projetos em destaque
-
-🔹 Em breve...
-
-(👉 Aqui você PRECISA colocar projetos reais depois)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
